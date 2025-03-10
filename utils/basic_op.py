@@ -6,3 +6,6 @@ def sub(a, b):
 
 def mul(a, b):
     return a * b
+
+def div_bim(a, b):
+    return a / b
