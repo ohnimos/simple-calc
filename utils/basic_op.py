@@ -6,3 +6,6 @@ def sub(a, b):
 
 def mul(a, b):
     return a * b
+
+def div_eugene(a, b):
+    return a / b
