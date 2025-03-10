@@ -6,3 +6,7 @@ def sub(a, b):
 
 def mul(a, b):
     return a * b
+
+def div_hyejin(a, b):
+    return a / b
+
